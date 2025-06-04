@@ -53,6 +53,9 @@ Clique nos botões abaixo para ver mais sobre minhas habilidades:
   </a>
 </p>
 
+[![DIO Campus Expert 🚀](https://img.shields.io/badge/DIO%20Campus%20Expert-Perfil-800080?style=for-the-badge)](https://www.dio.me/users/marciasilvacf1989)
+
+
 ---
 
 ## 🐧 Figurinha especial para o Linux que tanto amo:
