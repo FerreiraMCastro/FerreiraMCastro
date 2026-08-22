@@ -8,11 +8,11 @@ Sou uma profissional em **transição de carreira**, que atuava como **operadora
 
 ## 🌟 Sobre mim
 
-- 📍 De operadora de telemarketing à futura desenvolvedora!
-- 👩‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💼 Participante da **Turma 12 do DIO Campus Expert**
-- 💻 Apaixonada por aprender coisas novas e solucionar problemas com tecnologia
-- 🤝 Aberta a oportunidades, mentorias, colaboração em projetos e networking
+- 📍 De operadora de telemarketing à futura Platform Engineer!
+- 👩‍🎓 Estudante de **Gestão de qualidade**.
+- 💼 Participante da **Turma 12 do DIO Campus Expert**.
+- 💻 Apaixonada por Cloud e Linux.
+- 🤝 Aberta a oportunidades, mentorias, colaboração em projetos e networking.
 
 ---
 
