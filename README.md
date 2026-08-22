@@ -2,7 +2,9 @@
 
 Seja muito bem-vindo(a) ao meu perfil! 🚀
 
-Sou uma profissional em **transição de carreira**, que atuava como **operadora de telemarketing** e agora estou construindo minha trajetória na área de **tecnologia**. Tenho me dedicado intensamente aos estudos e à prática de diversas tecnologias para me tornar uma desenvolvedora completa.
+Estou sempre buscando aprender, experimentar novas tecnologias e transformar desafios em soluções. Se você também acredita que curiosidade, dedicação e vontade de evoluir podem abrir novos caminhos, seja bem-vindo! 🚀
+
+Vamos construir, aprender e evoluir juntos! 💻✨a.
 
 ---
 
