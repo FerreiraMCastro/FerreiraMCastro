@@ -11,7 +11,7 @@ Sou uma profissional em **transição de carreira**, que atuava como **operadora
 - 📍 De operadora de telemarketing à futura Platform Engineer!
 - 👩‍🎓 Estudante de **Gestão de qualidade**.
 - 💼 Participante da **Turma 12 do DIO Campus Expert**.
-- 💻 Apaixonada por Cloud e Linux.
+- ☁️🐧Apaixonada por Cloud e Linux.
 - 🤝 Aberta a oportunidades, mentorias, colaboração em projetos e networking.
 
 ---
