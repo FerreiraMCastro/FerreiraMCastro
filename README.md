@@ -60,6 +60,7 @@ Clique nos botões abaixo para ver mais sobre minhas habilidades:
   <a href="mailto:castromarciawork@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  
 ---
 
 ## 🐧 Figurinha especial para o Linux que tanto amo:
