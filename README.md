@@ -11,9 +11,10 @@ Vamos construir, aprender e evoluir juntos! 💻✨a.
 ## 🌟 Sobre mim
 
 - 📍 De operadora de telemarketing à futura Platform Engineer!
-- 👩‍🎓 Estudante de **Gestão de qualidade**.
+- 👩‍🎓 Estudante de **Análises e Desenvolvimento de Sistemas**.
 - 💼 Participante da **Turma 12 do DIO Campus Expert**.
-- ☁️🐧Apaixonada por Cloud e Linux.
+- ☁️ Programa Start/AWS em parceria com a Rede Cidadã.
+- 🐧 IA-LLM-ML|Spec-driven Development|Python
 - 🤝 Aberta a oportunidades, mentorias, colaboração em projetos e networking.
 
 ---
@@ -30,7 +31,6 @@ Clique nos botões abaixo para ver mais sobre minhas habilidades:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
@@ -57,7 +57,9 @@ Clique nos botões abaixo para ver mais sobre minhas habilidades:
 
 [![DIO Campus Expert 🚀](https://img.shields.io/badge/DIO%20Campus%20Expert-Perfil-800080?style=for-the-badge)](https://www.dio.me/users/marciasilvacf1989)
 
-
+  <a href="mailto:castromarciawork@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 ---
 
 ## 🐧 Figurinha especial para o Linux que tanto amo:
